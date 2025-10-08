@@ -12,6 +12,8 @@ Denne guide er taget næsten 1:1 fra [interaction-lab.wiki.utwente.nl/playground
 - Der er ikke officiel support til Linux/Raspberry Pi, men måske er der guides til det på nettet – tror dog det er svært :D
 - Altså er denne guide primært til Windows PC, men det skulle også gerne virke på Intel MacBooks (har kun testet på Windows).
 - På Windows virker det rigtig godt.
+- hvis man bare vil lege med myos'eget software, som kan sjove ting såsom at styre slideshows, og styre computermusen, kan man nøjes med at bruge Myo Connect appen ([download .exe-filen herfra (hvis du bruger windows)](https://github.com/NiklasRosenstein/myo-python/releases)) kør appen og følg guiden. Så behøves man ikke at downloade andet og skrive kode.
+
 
 ## Step-by-step setup
 
