@@ -39,7 +39,7 @@ Denne guide er taget næsten 1:1 fra [interaction-lab.wiki.utwente.nl/playground
     ```
     Sørg for at computeren har Python installeret først.
 
-    ## Test om Myo virker
+    ## Kode 1: Test om Myo virker
 
     Her er et eksempel på Python-kode, der tester om armbåndet er tilsluttet og reagerer:
 
@@ -70,7 +70,7 @@ Denne guide er taget næsten 1:1 fra [interaction-lab.wiki.utwente.nl/playground
     - Hvis armbåndet ikke er tilsluttet, stopper programmet.
     - Python-biblioteket `myo-python` skal være installeret.
 
-    ### Kode 2: Pose-detektion og udskrivning af gestur-nummer
+    ## Kode 2: Pose-detektion og udskrivning af gestur-nummer
 
     Denne kode opdager hvilken gestur (pose) der bruges og printer et tal for hver gestur:
 
@@ -119,7 +119,7 @@ Denne guide er taget næsten 1:1 fra [interaction-lab.wiki.utwente.nl/playground
     - Koden kræver at `myo-python` er installeret.
 
 
-    ### Kode 3: Data logging til .csv (avanceret)
+    ## Kode 3: Data logging til .csv (avanceret)
 
     Læs og plot armbåndets værdier  
     Dette script forbinder til armbåndet, venter på at posen "Fist" registreres, og begynder derefter at læse og gemme data fra armbåndet i en CSV-fil. Når "Fingers spread" registreres, gemmes data, et plot vises, og programmet afsluttes.
