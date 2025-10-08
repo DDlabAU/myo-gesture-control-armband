@@ -1,5 +1,7 @@
 # myo-gesture-control-armband
 
+*Guide sidst testet: 08/10-2025* 
+
 Guide til Myo, på Windows computere (labbet har måske nogle der kan lånes :)
 
 <img src="https://i.ytimg.com/vi/te1RBQQlHz4/maxresdefault.jpg" alt="Myo armbånd" width="400">
